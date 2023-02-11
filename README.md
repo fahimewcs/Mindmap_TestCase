@@ -1,2 +1,2 @@
 # Mindmap_TestCase
-This mindmap shows some test case scenario of those website.
+These mindmap shows some test case scenario of those websites.
